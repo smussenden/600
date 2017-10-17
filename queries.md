@@ -1,31 +1,28 @@
-##
+# SQL Queries Assignment
+* Sean Mussenden
+* Oct. 17, 2017
+* INFM600
 
-Find a series of two or more queries by a single user, and try to figure out what they were working on.  
+### Examining copyrighted images
 
-You	can	also	join	the	IRC	channel	to	ask	for	help	translating	details	at
-http://webchat.freenode.net	with	channel	#wikimedia-research.	Especially
-helpful	users	include:	yuvipanda,	halfak,	&	J-Mo.
-Stick to en-wikis or default wikis (english)
+While Wikipedia prefers editors avoid using copyrighted images on the site, it makes exceptions if copyright free images are not available.  Wikipedia has [guidelines](https://en.wikipedia.org/wiki/Wikipedia:Non-free_content) governing use of copyrighted material. The guidelines suggest using the lowest image resolution possible, while maintaining enough detail to be useful. And they request that copyrighted content be linked from at least one article.  This set of three queries by [ShakespeareFan00](https://quarry.wmflabs.org/shakespearefan00) returned copyrighted images that: had been marked as having been resized to the lowest possible resolution; were large enough to be candidates for reduction; and were not linked to any articles.  It's possible ShakespeareFan00 was considering editing or deleting some of these images to meet Wikipedia standards.
 
-• Paste	in	the	URLs	from	the	series	of	queries	you	found	and	write	up	a	short
-description	(2-3	sentences)	of	a	plausible	explanation	for	the	work	that	the	Quarry
-user	might	have	been	doing.
+* [Files that should not be reduced further](https://quarry.wmflabs.org/query/20775)
+* [Very large non-free files](https://quarry.wmflabs.org/query/18908)
+* [Orphaned non-free files](https://quarry.wmflabs.org/query/18899)
 
-o You	can	also	try	googling	some	pieces	of	the	queries	to	find	documentation,
-and	check	the	“Discuss"	tab	to	see	if	anything	there	relates	to	what	you're
-looking	at.
+### Examining gender of important users
 
-• Repeat	this	process	for	3	sets	of	queries;	each	set	of	queries	can	come	from	different	users.
+Wikipedia relies on volunteer editors to maintain it and the site has been criticized because [most of its editors are men](https://en.wikipedia.org/wiki/Gender_bias_on_Wikipedia). User [Crang115](https://quarry.wmflabs.org/Crang115) crafted several queries over the last few months to examine the gender balance of people with high levels of editing permissions ("bureaucrat" and "sysops") on the German and Portuguese Wikipedias, and found them to be heavily male. Amusingly, one query found that the most ["bot" accounts](https://en.wikipedia.org/wiki/Wikipedia:Bots) -- accounts that make automatic edits -- on the Portuguese Wikipedia that had a gender assigned were marked as "male."
 
-o Some	of	the	query	sets	are	more	obvious	or	opaque	than	others,	so	don't
-hesitate	to	shop	around	for	series	of	queries	before	settling	on	an	example.
-13
+* [Robots gender](https://quarry.wmflabs.org/query/18726)
+* [Gender of bureocrat in ptwiki](https://quarry.wmflabs.org/query/18756)
+* [Gender of sysop in dewiki](https://quarry.wmflabs.org/query/18754)
 
-o Another	option	for	finding	good	queries	is	to	browse	user	profiles.	Some	of
-the	users	that	appear	frequently	or	have	nicely	titled	queries	may	have
-better	examples	for	you	to	check	out.
+### Examining bot activity on Wikipedia
 
-users.	On	Canvas,	submit	the	URL	for	a	word	processing	or	markdown	document	on
-Git	that	contains	the	details	above	for	the	three	sets	of	queries	that	you	identified.
-On	Canvas,	submit	the	URL	for	a	word	processing	or	markdown	document	on	Git	that
-contains the	details	above	for	the	three	sets	of	queries	that	you	identified.
+[Bots](https://en.wikipedia.org/wiki/Wikipedia:Bots) -- user accounts powered by scripts that make automated edits to articles -- are responsible for thousands of daily edits on Wikipedia. User [Staeiou](https://quarry.wmflabs.org/Staeiou) crafted several queries to examine the influence of bots on the English Wikipedia. Two queries found that about 20 percent of all edits on articles and pages were executed by bots. A third query examined the thousands of cases where one bot reverted an edit by another bot, giving an interesting picture of the bot vs. bot editing war on Wikipedia.   
+
+* [bot-bot revert pairs by namespace](https://quarry.wmflabs.org/query/17236)
+* [Percent of bot edits in previous month (enwiki, articles only)](https://quarry.wmflabs.org/query/20704)
+* [Percent of bot edits in previous month (enwiki, all pages)](https://quarry.wmflabs.org/query/20703)
