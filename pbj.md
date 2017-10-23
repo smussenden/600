@@ -81,7 +81,7 @@ PK3. Rotate your right hand 90 degrees clockwise to help stick as much peanut bu
 PK4. Lift your right hand to remove the knife from the jar of peanut butter, so that by the time the knife is completely out of the jar, the blade is essentially parallel to the mouth of the jar and has as much peanut butter as you like resting on top of it.
 PK5. Go to the next section, "Spread Peanut Butter on One Piece of Bread."  
 
-## Spread Peanut Butter on One Piece of Bread.
+## Spread Peanut Butter on One Piece of Bread
 BR1. Pinch the left-most piece of bread between the index finger and thumb of your left hand with your palm facing down.
 BR2. Rotate your left hand 180 degrees so that your palm faces upwards, Jiggle your hand as needed to position the bread to lay flat onto your palm.  Release your index-finger thumb grip.
 BR3. Move your right hand so the peanut butter on the blade of the knife makes contact with the flat surface of the bread, at the edge closest to your left hand fingertips.
@@ -90,9 +90,27 @@ BR5. When you reach the other end, pull the knife away from the surface of the b
 BR6. If no peanut butter remains on the knife and the peanut butter on the bread is evenly distributed, then move to step BR7. If not, return the knife to make contact with the flat surface of the bread at the edge closest to your left hand fingertips and return to step BR4.
 BR7. Bring the edge of the slice of bread with peanut butter on it into contact with the flat surface of the plate.
 BR8. Slide your left hand out from under the slice of bread with peanut butter on it, so that the slice comes to rest on the plate.
-BR9. Go to the next section, "Spread Jelly on One Piece of Bread."
+BR9. Go to the next section, "Spread Jelly on the Other Piece of Bread."
 
-## 
+## Put Jelly on the Knife
+JK1. With your left hand, wrap you fingers around the jelly jar and grip tightly.
+JK2. With your right hand, plunge the blade of the knife deep into the jar of jelly (through the opening), at an 80 degree angle (not perfectly perpendicular to the jar).
+JK3. Rotate your right hand 90 degrees clockwise to help stick as much jelly as you like to the knife blade.  
+JK4. Lift your right hand to remove the knife from the jar of jelly, so that by the time the knife is completely out of the jar, the blade is essentially parallel to the mouth of the jar and has as much jelly as you like resting on top of it.
+JK5. Go to the next section, "Spread Jelly on the Other Piece of Bread."  
+
+## Spread Jelly on the Other Piece of Bread
+JB1. Pinch the right-most piece of bread (the one with no peanut butter on it) between the index finger and thumb of your left hand with your palm facing down.
+JB2. Rotate your left hand 180 degrees so that your palm faces upwards, and jiggle your hand as needed to position the bread to lay flat onto your palm.  Release your index-finger thumb grip.
+BR3. Move your right hand so the jelly on the blade of the knife makes contact with the flat surface of the bread, at the edge closest to your left hand fingertips.
+BR4. Using light pressure to press the peanut butter into the surface of the bread, drag the knife from one end of the slice of bread to the other.
+BR5. When you reach the other end, pull the knife away from the surface of the bread.
+BR6. If no peanut butter remains on the knife and the peanut butter on the bread is evenly distributed, then move to step BR7. If not, return the knife to make contact with the flat surface of the bread at the edge closest to your left hand fingertips and return to step BR4.
+BR7. Bring the edge of the slice of bread with peanut butter on it into contact with the flat surface of the plate.
+BR8. Slide your left hand out from under the slice of bread with peanut butter on it, so that the slice comes to rest on the plate.
+BR9. Go to the next section, "Spread Jelly on the Other Piece of Bread."
+
+
 
 BR6. Turn the knife over. Return to step 4.   
 
